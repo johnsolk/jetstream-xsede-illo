@@ -1,3 +1,5 @@
+Application by Daniel Standage: https://gist.githubusercontent.com/standage/29f41ba8779fb1dc7df4ecb628a5ae52/raw/72cf4e95d1460d65aa3cb3b3f9f7ad0be10d4265/jetstream-training-allocation-proposal-2016.md
+
 This proposal requests computing resources on the IU/TACC Jetstream platform in support of training and outreach efforts in the Lab for Data Intensive Biology at UC Davis.
 Through our lab's research collaborations, workshops, rotation student mentoring, and informal weekly "meet and analyze data" sessions, we frequently encounter scientists faced with bioinformatics computing problems beyond what their training has prepared them for.
 Accordingly, along with our research software tools we have published several protocols for analysis of genome-scale data (http://khmer-protocols.readthedocs.org/).
