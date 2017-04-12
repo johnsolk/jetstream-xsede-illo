@@ -1,3 +1,5 @@
+Applicaiton by Lisa Cohen
+
 Jetstream - Startup Application
 
 Title: Startup allocation request for the storage, exploration, and analysis of the Marine Microbial Eukaryotic Transcriptome Sequencing Project
@@ -6,8 +8,6 @@ Abstract: This proposal is requesting resources from the IU/TACC Jetstream cloud
 
 [1] Keeling PJ et al. 2014. The marine microbial eukaryote transcriptome sequencing project (MMETSP): Illuminating the functional diversity of eukaryotic life in the oceans through transcriptome sequencing. PLOS Biology. 12:(6): e1001889.
 
-
-
 Resources Applying for:
 
 The following VM resources are requested: Medium, 6 vCPU, 16 GB RAM, 60 GB local storage
