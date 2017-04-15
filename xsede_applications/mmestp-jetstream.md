@@ -1,4 +1,4 @@
-Applicaiton by Lisa Cohen
+Application by Lisa Cohen
 
 Jetstream - Startup Application
 
