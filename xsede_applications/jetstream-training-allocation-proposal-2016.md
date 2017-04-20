@@ -1,4 +1,4 @@
-Applicaiton by Daniel Standage:
+Application by Daniel Standage:
 https://gist.githubusercontent.com/standage/29f41ba8779fb1dc7df4ecb628a5ae52/raw/72cf4e95d1460d65aa3cb3b3f9f7ad0be10d4265/jetstream-training-allocation-proposal-2016.md
 
 This proposal requests computing resources on the IU/TACC Jetstream platform in support of training and outreach efforts in the Lab for Data Intensive Biology at UC Davis.
